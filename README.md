@@ -7,3 +7,5 @@ click - click
 record - recording for auto play
 
 after selecting mode press ` to start , for recording press f9
+
+Version 1.0.1 will add translated to english and bug fixes if is needed, and more if you give me ideas
